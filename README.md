@@ -18,7 +18,7 @@ This application visualizes **live upload and download speeds** from your networ
 ## 📂 Project Structure
 
 ```
-wifi-network-monitor/
+Network-Monitor/
 ├── app.py              # Main Python application file
 └── README.md           # Project documentation
 ```
