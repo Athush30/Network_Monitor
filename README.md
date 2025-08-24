@@ -76,11 +76,6 @@ Then open your browser and visit:
 
 ---
 
-## ✨ Screenshots
-
-> 
----
-
 ## ✅ To-Do / Future Improvements
 
 - CSV export of speed data  
@@ -108,20 +103,8 @@ You are free to use, modify, and distribute this software with proper attributio
 
 ---
 
-## 🙋‍♂️ Author
 
-Developed by **Thusajiny Ahilakumaran**  
-- GitHub: [github.com/yourusername](https://github.com/Athush30)  
 
----
-
-## 📚 References
-
-- [Dash Documentation](https://dash.plotly.com/)  
-- [Dash Bootstrap Components](https://dash-bootstrap-components.opensource.faculty.ai/)  
-- [psutil Documentation](https://psutil.readthedocs.io/en/latest/)
-
----
 
 
 
